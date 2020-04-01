@@ -11,9 +11,9 @@ def num_random(intentos):
 			print ('Correcto, el numero es ' ,numero, ', en ' ,i+1, ' intentos.')
 			break
 		elif ingr < numero:
-			print('Mas grande!')
+			print('Mas grande !')
 		else:
-			print('Es menor!')
+			print('Es menor !')
 	else:
 			print('Se terminaron los intentos')
 
